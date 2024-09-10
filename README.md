@@ -76,7 +76,6 @@ If you would like to see any additional feature added to this repo, you can do a
 - Open an issue with the  hashtag #Feature
 - Fork the repo and make improvements and then open a pull request
 - Send an email requesting the feature
-- Message me on whatsapp through the number on my [portfolo website](https://johnmwendwa.vercel.app)
 
 ## Congrats, that's it 😎
 As you start or continue with your reading journey, I wish you all the luck.
